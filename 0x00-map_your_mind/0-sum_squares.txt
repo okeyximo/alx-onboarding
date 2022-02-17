@@ -1,0 +1,9 @@
+Step 1: Read N
+Step 2 : Let COUNT = 0, sum = 0.
+Step 3: Read Num. 
+Step 4 : COUNT = COUNT + 1
+Step 5: Compute the square of the number i.e SQR = (Num * Num)
+Step 6 : sum = sum * SQR
+Step 7: If COUNT is less than N then repeat steps 3 to 6.
+Step 8: Print sum
+Step 9: End.
