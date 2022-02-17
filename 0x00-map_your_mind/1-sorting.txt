@@ -1,0 +1,19 @@
+SOLUTION IN PSEUDO CODE:
+step 1: Read x, y ,z
+step 2. Let a =x, b= y , c=z
+step 3. if a > b then 
+	temp = a 
+	   a = b
+	   b = temp 
+         endif
+step 4 if b > c then 
+	temp = b
+	  b  = c
+	  c  = temp
+	endif 
+step 5 if a > b then 
+	 temp = a 
+	    a = b
+	    b = temp
+         endif 
+step 6 Display a, b, c    
